@@ -31,7 +31,7 @@
             android:title="@string/location_mode_title" />
 
         <ListPreference
-            android:defaultValue="15"
+            android:defaultValue="60"
             android:entries="@array/weather_interval_entries"
             android:entryValues="@array/weather_interval_values"
             android:key="weather_interval"
